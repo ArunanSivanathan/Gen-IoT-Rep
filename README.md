@@ -27,4 +27,4 @@ We will release implementations of five encoder models studied in our work. Thes
 
 ## Related Work
 
-Our previous IoT dataset is available at: https://iotanalytics.unsw.edu.au/iottraces.html
+Our previous IoT dataset is available at: https://iotanalytics.unsw.edu.au/iot-customflow.html
