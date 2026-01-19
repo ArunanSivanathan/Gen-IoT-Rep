@@ -1,4 +1,4 @@
-# Gen-IoT Repository
+# Generalisable IoT Representation
 
 This repository contains datasets and encoder implementations that will be publicly released upon acceptance of our research paper.
 
