@@ -43,6 +43,6 @@ https://iotanalytics.unsw.edu.au/iot-customflow.html
 
 If you use these datasets or software artifacts, please cite
 
-> A. Sivanathan et al., *Generalizable IoT Traffic Representations for Cross-Network Device Identification*, IEEE Transactions on Network and Service Management (TNSM), 2026.
+> A. Sivanathan et al., *Generalizable IoT Traffic Representations for Cross-Network Device Identification*, IEEE Transactions on Network Science and Engineering (TNSE), 2026.
 
-Please also cite the DATA2016 Dryad release if your work makes use of the Custom Flow representation.
+Please also cite the DATA2016 Dryad release if your work uses the Custom Flow representation.
