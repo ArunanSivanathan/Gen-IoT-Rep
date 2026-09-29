@@ -4,7 +4,7 @@ This repository accompanies the paper
 
 > **Generalizable IoT Traffic Representations for Cross-Network Device Identification**
 
-submitted to the **IEEE Transactions on Network and Service Management (TNSM)**.
+submitted to the **IEEE Transactions on Network Science and Engineering (TNSE)**.
 
 The repository serves as the public landing page for the datasets, pretrained encoder models, and software artifacts accompanying the paper.
 
@@ -43,6 +43,6 @@ https://iotanalytics.unsw.edu.au/iot-customflow.html
 
 If you use these datasets or software artifacts, please cite
 
-> A. Sivanathan et al., *Generalizable IoT Traffic Representations for Cross-Network Device Identification*, IEEE Transactions on Network Science and Engineering (TNSE), 2026.
+> A. Sivanathan et al., *Generalizable IoT Traffic Representations for Cross-Network Device Identification*, under review at IEEE Transactions on Network Science and Engineering (TNSE), 2026.
 
 Please also cite the DATA2016 Dryad release if your work uses the Custom Flow representation.
